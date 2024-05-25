@@ -1,5 +1,5 @@
 import { ChakraProvider } from '@chakra-ui/react';
-import Navbar from '.components/Navbar';
+import Navbar from './components/Navbar';
 
 const App = () => {
   return (
